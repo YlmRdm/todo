@@ -1,6 +1,5 @@
-This project was developed with [Django](https://www.djangoproject.com/).
-**Note: First all, you need to write your own password for database from settings.py or ask me**
-
+This project was developed with [Django](https://www.djangoproject.com/).<br>
+**First all, you need to write your own password for database from settings.py or ask me**
 
 ## Available Scripts..
 
@@ -16,7 +15,7 @@ Creates the virtual environment in the development mode.<br>
 
 Activates the virtual environment in the interactive watch mode.<br>
 
-**Note: Then, Django REST and CORS should be installed in your virtual environment. if installed already, skip the next step.**
+**Note: Django REST and CORS should be installed in your virtual environment. if installed already, skip the next step.**
 - `pip install djangorestframework`
 - `pip install django-cors-headers`
 
