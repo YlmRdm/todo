@@ -29,4 +29,4 @@ Runs the server in the development mode.<br>
 Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
 
 **Note: Also, you can see my API.** <br>
-Open [http://localhost:8000/todos/api](http://localhost:8000/todos/api) to view it in the browser.
+Open [http://localhost:8000/todos/api](http://localhost:8000/api/todos) to view it in the browser.
